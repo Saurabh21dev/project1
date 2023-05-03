@@ -9,22 +9,22 @@ distributed computing tools. Using these datasets and Spark SQL we have created 
 
 ## TOOLS AND TECHNOLOGIES
 
-1.SPARK <br>
-* 2.DATAFRAMES 
-3.PYSPARK
-4.SPARK SQL
-5.JUPYTER NOTEBOOK
-6.Python
+* SPARK <br>
+* DATAFRAMES 
+* PYSPARK
+* SPARK SQL
+* JUPYTER NOTEBOOK
+* Python
 
 ## Roles and Responsibilities - 
-1.Created Reusabale methods for viewing data from the dataset by giving start and end index.
-2.Worked on fuctions defining number of eligible customers for credit card based on their creditscore.
-3.Worked on fuctions defining number of potential customers who may default based on credit score and income.
-4.Worked on fuctions defining number of eligible customers for eligible by geography.
-5.Worked on fuctions defining number of eligible customers for credit card by estimated salary and incom.
-6.Worked on pictorical analysis using matplotlib and seaborn.
-7.Created methods for different types of credit card based on their credit score , estimated salary and income.
+* Created Reusabale methods for viewing data from the dataset by giving start and end index.
+* Worked on fuctions defining number of eligible customers for credit card based on their creditscore.
+* Worked on fuctions defining number of potential customers who may default based on credit score and income.
+* Worked on fuctions defining number of eligible customers for eligible by geography.
+* Worked on fuctions defining number of eligible customers for credit card by estimated salary and incom.
+* Worked on pictorical analysis using matplotlib and seaborn.
+* Created methods for different types of credit card based on their credit score , estimated salary and income.
 
 ## CONTRIBUTORS - 
-1.SAURABH DHATRAK
-2.ANAND KOYALMUDI
+* SAURABH DHATRAK
+* ANAND KOYALMUDI
