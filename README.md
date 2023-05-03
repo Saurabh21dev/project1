@@ -10,7 +10,7 @@ distributed computing tools. Using these datasets and Spark SQL we have created 
 ## TOOLS AND TECHNOLOGIES
 
 1.SPARK <br>
-2.DATAFRAMES *
+* 2.DATAFRAMES 
 3.PYSPARK
 4.SPARK SQL
 5.JUPYTER NOTEBOOK
